@@ -1,0 +1,60 @@
+Test Output
+--------------------------------------------------------------------------------
+Recursive Web Crawler starting at 02/03/2025 15:35:51
+--------------------------------------------------------------------------------
+[*] URL : http://example.com
+[*] Max Depth : 2
+--------------------------------------------------------------------------------
+[+] Subdomains : http://sub.example.com
+[+] Links : http://example.com/page
+[+] JS Files : script.js
+Test Output
+--------------------------------------------------------------------------------
+Recursive Web Crawler starting at 02/03/2025 15:37:19
+--------------------------------------------------------------------------------
+[*] URL : http://example.com
+[*] Max Depth : 2
+--------------------------------------------------------------------------------
+[+] Subdomains : http://sub.example.com
+[+] Links : http://example.com/page
+[+] JS Files : http://example.com/script.js
+Test Output
+--------------------------------------------------------------------------------
+Recursive Web Crawler starting at 02/03/2025 15:37:54
+--------------------------------------------------------------------------------
+[*] URL : http://example.com
+[*] Max Depth : 2
+--------------------------------------------------------------------------------
+[+] Subdomains : http://sub.example.com
+[+] Links : http://example.com/page
+[+] JS Files : http://example.com/script.js
+Test Output
+--------------------------------------------------------------------------------
+Recursive Web Crawler starting at 02/03/2025 15:38:39
+--------------------------------------------------------------------------------
+[*] URL : http://example.com
+[*] Max Depth : 2
+--------------------------------------------------------------------------------
+[+] Subdomains : http://sub.example.com
+[+] Links : http://example.com/page
+[+] JS Files : http://example.com/script.js
+Test Output
+--------------------------------------------------------------------------------
+Recursive Web Crawler starting at 02/03/2025 15:40:44
+--------------------------------------------------------------------------------
+[*] URL : http://example.com
+[*] Max Depth : 2
+--------------------------------------------------------------------------------
+[+] Subdomains : http://sub.example.com
+[+] Links : http://example.com/page
+[+] JS Files : http://example.com/script.js
+Test Output
+--------------------------------------------------------------------------------
+Recursive Web Crawler starting at 02/03/2025 15:46:27
+--------------------------------------------------------------------------------
+[*] URL : http://example.com
+[*] Max Depth : 2
+--------------------------------------------------------------------------------
+[+] Subdomains : http://sub.example.com
+[+] Links : http://example.com/page
+[+] JS Files : http://example.com/script.js
